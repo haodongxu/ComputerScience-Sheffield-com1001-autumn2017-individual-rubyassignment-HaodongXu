@@ -1,0 +1,2 @@
+# ComputerScience-Sheffield-com1001-autumn2017-individual-rubyassignment-HaodongXu
+COM1001-ComputerScience-Sheffield/com1001-autumn2017-individual-rubyassignment-YOURGITHUBUSERNAME.git
